@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Tiny Build
+N;CHARSET=UTF-8:Tiny Build;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;16114 121st Ave NE;Bothell;WA;98011-4122;USA
+EMAIL:contact@tinybuild.com
+ORG;CHARSET=UTF-8:tinyBuild LLC
+URL:http://tinybuild.com
+END:VCARD
